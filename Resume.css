@@ -1,0 +1,176 @@
+.name{
+   font-size: 98px;
+   color: white; 
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.flex{
+   display: flex;
+   margin-left: 10%;
+   margin-top: 2%;
+   color: white;
+}
+.brown{
+   color:  #ffc107;
+}
+.logo{
+   display: flex;
+   background-color: rgb(236, 231, 231);
+}
+.cover{
+   margin-left: 30px;
+}
+nav a{
+   text-decoration: none;
+   color: #ffc107;
+   margin-left: 30px;
+   font-weight: 750;
+}
+nav{
+   margin-left: 40%;
+   margin-top: 40px;
+}
+.hire{
+   padding: 13px 30px;
+   border-radius: 25px;
+   background-color:  #ffc107;
+   border-color: #ffc107;
+}
+.work{
+   padding: 13px 30px;
+   background-color: transparent;
+
+   color: white;
+   border-color: white;
+   border-radius: 25px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+   background-color: black;
+}
+h5{
+   color: #ffc107;
+}
+.about{
+   font-size: 30px;
+   color: white; 
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.me{
+   font-size: 20px;
+   color: white;
+   margin-left: 25px;
+   font-family: 'Arial Narrow', Arial;
+}
+.native{
+   display: flex;
+   color: white;
+   margin-top: 3%;
+   margin-left: 7%;
+}
+.about1{
+   font-size: 70px;
+   color: white; 
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.left{
+   margin-left: 15%;
+   margin-top: 3%;
+}
+.container{
+   color: white;
+   display: flex;
+}
+.mini{
+   margin-left: 50px;
+   text-align: center;
+   background-color: rgba(26, 24, 24, 0.973);
+   padding: 15px;
+   font-size: 17px;
+   border-radius: 30px;
+}
+h2{
+   color: #ffc107;
+}
+.resume{
+   color: #ffc107;
+   font-size: 60px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+   margin-top: 5%;
+}
+.objective{
+   color: white;
+   font-size: 30px;
+   text-align: center;
+}
+.container1{
+   color: white;
+   display: flex;
+}
+.mini1{
+   margin-left: 150px;
+   text-align: center;
+   background-color: rgba(26, 24, 24, 0.973);
+   padding: 10px;
+   font-size: 5px;
+   border-radius: 30px;
+}
+.round{
+   border-radius: 150px;
+}
+h4{
+   color: #ffc107;
+}
+.test{
+   margin-left: 40px;
+   margin-right: 55%;
+}
+.bar{
+   margin-left: 55%;
+   margin-right: 40px;
+}
+.grade{
+   color: white;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 30px;
+}
+.level{
+   margin-left: 60%;
+}
+.end{
+   color: white;
+   font-size: 40px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.available{
+   color: #ffc107;
+}
+.contact{
+   text-align: center;
+   margin-top: 10%;
+   background-image: url(images/bg_1.jpg);
+   height: 100vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding-top: 15%;
+
+}
+.contact h4{
+   color: white;
+}
+.mini2{
+   margin-left: 9%;
+   text-align: center;
+   background-color: rgba(26, 24, 24, 0.973);
+   padding: 20px;
+   font-size: 20px;
+   border-radius: 90px;
+   color: blue;
+}
+.copyright{
+   color: blue;
+   text-align:center;
+}
+.gra{
+   color: white;
+}
